@@ -38,7 +38,7 @@ This library was created from measurements of the physical module and verified f
 - The footprint dimensions were created from the physical module and tested in KiCad.
 
 ---
-## 📫 Contact me
+## 📫 Contact us
 - ✉️ Borna Etminan (owner) Email: borna.etminan34@gmail.com
 - ✉️ Nader Etminan Email: fartoos.co@gmail.com
 - 🧧 Borna Etminan (owner) Github: [Borna-Etminan](https://github.com/Bonra-Etminan)
