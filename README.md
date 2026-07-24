@@ -6,7 +6,7 @@ I and my DAD made a growing collection of custom KiCad symbols and footprints fo
 # 💾 Component
 
 ---
-## [📲 RF_Module_RXC6](https://github.com/Borna-Etminan/KiCAD-Library)
+## [📲 RF_Module_RXC6](https://github.com/Borna-Etminan/KiCAD-Library/tree/main/RF_Module_RXC6)
 This library was created from measurements of the physical module and verified for use in PCB designs. It is intended for projects using common 433 MHz ASK/OOK wireless remote control systems.
 
 ### Features
