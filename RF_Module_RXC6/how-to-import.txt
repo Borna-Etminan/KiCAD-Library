@@ -1,0 +1,18 @@
+Hi there 
+This text is for how to import Footprint and Symbol of RF_Module_RXC6 component
+1- download .zip file from our github page and then extract to one correct path and then copy path of .kicad_sym file
+2- go in KiCad and schematic Editor then go to "Prefrence" and add the path
+3- then go to Footprint Editor then go to "Prefrence" again and then add the path of .pretty folder (write "RXC6" for nick name of Footprint)
+4- serch "RXC6" and select you component
+5- the END
+6- if you have any proglem you can ask CHATGPT :), and me (my email is borna.etminan34@gmail.com)
+
+
+
+if you want to see more project from us, you can visit this Links:
+Bonra Etminan resume:  https://github.com/Borna-Etminan
+Nader Etminan resume:  https://github.com/Nader-Etminan
+
+Best
+    Fartoos team
+Good by 
