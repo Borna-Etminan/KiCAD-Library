@@ -8,7 +8,7 @@ I and my DAD made a growing collection of custom KiCad symbols and footprints fo
 ---
 ## [📲 RF_Module_RXC6](https://github.com/Borna-Etminan/KiCAD-Library/tree/main/RF_Module_RXC6)
 This library was created from measurements of the physical module and verified for use in PCB designs. It is intended for projects using common 433 MHz ASK/OOK wireless remote control systems.
-
+(I actually send this Footprint and Symbol for my Harvard CS50X final project and they accepted and this [link](https://cs50.harvard.edu/certificates/69cfa5a2-2e2e-44ca-b45e-cd65aa230e8d) is certificate for that project)
 ### Features
 - ✅ Custom schematic symbol
 - ✅ Custom PCB footprint
